@@ -1,1 +1,13 @@
-# projeto-integrador
+Projeto integrador
+
+ O projeto consiste na implementação de um sistema de monitoramento da qualidade das condições do ambiente e detecção de gases via IoT.
+ 
+O dispositivo utiliza uma combinação de sensores MQ-2 e DHT22 para coletar informações sobre a concentração de gases e a umidade do ar, respectivamente. Esses sensores estão integrados em uma placa Arduino, que realiza a transferência de dados para uma ESP32. Posteriormente, os dados são enviados para um aplicativo na nuvem por meio do serviço Blynk Cloud.Além disso sera feito a implementação do protocolo MQTT, por prover uma transferencia de dados eficiente em ambientes IoT
+
+Com esse projeto buscamos desenvolver um sistema de coleta, transmissão e monitoramento de dados rapido e eficiente.
+
+DISCIPLINAS UTILIZADAS
+
+Programação orientada a objetos : codificações de classes, atributos, métodos
+sistemas digitais : implementação de um ambiente IoT
+estrutura de dados : fazendo com que não só os dados sejam organizados mas tambem que o codigo seja mais otimizado
