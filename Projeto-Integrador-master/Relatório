@@ -1,0 +1,29 @@
+Codificou classes:
+A classe main activity serve pra mostrar uma atividade no android
+
+Codificou atributos:
+co2 e glp são exemplos de atributos dentro das classes eles servem pra mostrar um botão em forma de imagem no front-end e o tipo deles é imagebutton
+
+Codificou métodos:
+Método setOnClickListener é um metodo que reage ao usuario ele e ele define oque vai a acontecer quando o usuario clicar no botão
+
+Codificou  atributos protegidos e/ou privados:
+O atributo private ImageButton temp serve pra garantir deles não serem acessados diretamente de fora da classe
+sem contar que facilita muito futuras manutenções que deve ocorrer que é uma boa pratica na programação orientada a objeto
+
+Codificou métodos protegidos e/ou privados:
+O método onClick nos botões são privados pq não tem a nessecidade de acessalos fora da classe que ele esta
+
+instanciou objetos:
+A Instância de objeto na classe GlpActivity foi colocada para quando o botão for clicado 
+
+Identificou e codificou classes de comportamento:
+A classe Co2Activity representa uma classe de comportamento ela basicamente serve pra definir com as atividades vão se portar no app
+
+Ocultou informações usando atributos e/ou métodos protected/private:
+foi usado atributos e métodos privados para controlar melhor o comportamento da classe como o método onClick e o atributo umid
+
+Código Limpo:
+nomes pequenos mas descritivos como temp, umid, co2, glp deixando assim sua função clara e de facil atendimento
+Sem Duplicação de Código
+Indentação e Espaçamento Consistentes
