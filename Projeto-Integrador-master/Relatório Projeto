@@ -4,7 +4,7 @@ O projeto consiste na implementação de um sistema de monitoramento da qualidad
 
 O dispositivo utiliza uma combinação de sensores MQ-2 e DHT22 para coletar informações sobre a concentração de gases e a umidade do ar, respectivamente. Esses sensores estão integrados em uma placa Arduino, que realiza a transferência de dados para uma ESP32. Posteriormente, os dados são enviados para um aplicativo na nuvem por meio do serviço Blynk Cloud.Além disso sera feito a implementação do protocolo MQTT, por prover uma transferencia de dados eficiente em ambientes IoT
 
-Com esse projeto buscamos desenvolver um sistema de coleta, transmissão e monitoramento de dados rapido e eficiente.
+Com esse projeto buscamos desenvolver um sistema de coleta, transmissão e monitoramento de dados de forma rapida e eficiente.
 
 DISCIPLINAS UTILIZADAS
 
